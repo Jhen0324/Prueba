@@ -1,2 +1,2 @@
 # Prueba
-Esta sección encontrarás muestras de mis proyectos haciendo uso de los conocimiento adquiridos haciendo uso de diseño con HTML Y CSS, complementando la programación con JavaScript
+En esta sección encontrarás muestras de mis proyectos haciendo uso de los conocimiento adquiridos haciendo uso de diseño con HTML Y CSS, complementando la programación con JavaScript
